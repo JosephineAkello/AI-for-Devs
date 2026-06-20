@@ -117,10 +117,13 @@ ML -> Machine Learning
 A subset of AI that learns patterns from data and improves without hard coded rules
 
 Deep Learning
-A subset of ML that uses multi-layer neural networks to learn complex, hierachical patterns
+A subset of ML that uses multi-layer neural networks to learn complex, hierarchical patterns
 
-Generative AI
-Tools that can create new content, text, images, videos, music
+Generative AI → Tools that can create new content (Text, image, video, audio, & more)
+Example: "Write an email to this customer"
+
+Predictive AI → Is a type of artificial intelligence that analyzes historical and current data to predict future outcomes, behaviors, or events.
+Example: "Will this customer cancel?"
 
 ## AI Tools
 
