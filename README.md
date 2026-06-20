@@ -7,3 +7,6 @@ PS: These are notes from my own reading, research & video tutorials about gettin
 - Check [ROADMAP for AI DEVELOPERS](roadmap.md) to get started
 
 - Check [Resources Link](resources_links.md) to get started
+
+<img width="1920" height="1080" alt="BuildWithAIMojo" src="https://github.com/user-attachments/assets/f8f28a5e-8ca0-4551-bb0f-d25b2d339edb" />
+
