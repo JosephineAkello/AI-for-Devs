@@ -5,3 +5,5 @@ Developer Resources and important links to get started from scratch with AI - Fo
 PS: These are notes from my own reading, research & video tutorials about getting started with AI.
 
 - Check [ROADMAP for AI DEVELOPERS](roadmap.md) to get started
+
+- Check [Resources Link](resources_links.md) to get started
