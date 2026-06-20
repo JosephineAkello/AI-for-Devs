@@ -1,5 +1,8 @@
 # Roadmap for AI developers
 
+<img width="1920" height="1080" alt="BuildWithAIMojo (2)" src="https://github.com/user-attachments/assets/ba3d7f33-5604-4ca9-844f-4c6b8ebd4b4c" />
+
+
 ## 6 Major skills needed for AI engineers
 
 1. Working with Models
