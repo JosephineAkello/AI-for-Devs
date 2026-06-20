@@ -1,4 +1,4 @@
-# AI-for-Devs
+# AI for Developers
 
 Developer Resources and important links to get started from scratch with AI - For developers getting started with AI at Beginner Level or any non-technical person wondering where to start from.
 
