@@ -1,6 +1,6 @@
 # AI for Developers (WIP) 🚧
 
-Developer Resources and important links to get started from scratch with AI - For developers getting started with AI at Beginner Level or any non-technical person wondering where to start from.
+Developer Resources and important links to get started from scratch with AI. It's for developers getting started with AI at a beginner level or any non-technical person wondering where to start from.
 
 PS: These are notes from my own reading, research & video tutorials about getting started with AI.
 
