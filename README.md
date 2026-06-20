@@ -1,4 +1,4 @@
-# AI for Developers (WIP) 🚧
+# AI for Developers & Roadmap (WIP) 🚧
 
 Developer Resources and important links to get started from scratch with AI. It's for developers getting started with AI at a beginner level or any non-technical person wondering where to start from.
 
